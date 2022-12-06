@@ -5,7 +5,7 @@ dev-repo: "git+https://github.com/smtcoq/sniper.git"
 bug-reports: "https://github.com/smtcoq/sniper/issues"
 authors: ["Valentin Blot <Valentin.Blot@inria.fr>"
           "Louise Dubois de Prisque <Louise.Dubois-de-Prisque@inria.fr>"
-          "Chantal Keller <Chantal.Keller@lri.fr"
+          "Chantal Keller <Chantal.Keller@lri.fr>"
           "Pierre Vial <Pierre.Vial@inria.fr>"
 ]
 license: "CECILL-C"
